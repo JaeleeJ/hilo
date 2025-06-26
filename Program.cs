@@ -1,5 +1,5 @@
 ﻿//hilo
-//Jaelee Hutchinson
+//Jaelee Jeong
 using System;
 
 //gameLoop contains the main class that calls the card and player classes
