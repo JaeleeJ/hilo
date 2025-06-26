@@ -1,5 +1,5 @@
 //hilo
-//Jaelee Hutchinson
+//Jaelee Jeong
 using System;
 
 //card class deals with the current and next cards
