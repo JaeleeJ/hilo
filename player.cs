@@ -1,5 +1,5 @@
 //hilo
-//Jaelee Hutchinson
+//Jaelee Jeong
 using System;
 
 //player class deals with user input and the user's points
